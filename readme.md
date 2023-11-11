@@ -1,0 +1,1 @@
+commad to run individual ts file is `npx ts-node union/union.ts`
