@@ -6,4 +6,4 @@ const combine = function (value1: number, value2: number):number {
   return value1 + value2;
 };
 
-console.log(combine(20,20));``
+console.log(combine(20,20));
