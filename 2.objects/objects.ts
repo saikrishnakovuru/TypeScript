@@ -37,3 +37,11 @@ const p1: Person = { name: "babai", age: 27 };
 const p2: Person = { name: "reddy", age: 30 };
 
 compareAge(p1, p2);
+
+//=======================================================================================
+
+//this the direct way of representing objects, called object literal.
+const Sebichive ={
+  billing: 10,
+  name: 'filter'
+}
