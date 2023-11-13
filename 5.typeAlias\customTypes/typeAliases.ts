@@ -21,3 +21,5 @@ const combine = function (
     return value1 + value2;
   return value1.toString() + value2.toString();
 };
+
+constt val = 10;
