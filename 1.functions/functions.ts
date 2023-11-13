@@ -20,7 +20,7 @@ console.log(one(3, 6));
 const arrowFunctionWithNoParameters = () =>
   console.log("arrowFunctionWithNoParameters");
 
-const arrowFunctionWithOneParameter = (n:number) => n;
+const arrowFunctionWithOneParameter = (n: number) => n;
 
 const functionExpressionWithOneParameter = function (n: number): number {
   return n;
