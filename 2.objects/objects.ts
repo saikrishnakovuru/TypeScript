@@ -41,7 +41,7 @@ compareAge(p1, p2);
 //=======================================================================================
 
 //this the direct way of representing objects, called object literal.
-const Sebichive ={
+const Sebichive = {
   billing: 10,
-  name: 'filter'
-}
+  nam: "filter",
+};
